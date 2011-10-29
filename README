@@ -1,1 +1,5 @@
 En liten enkel klient som synkroniserer en lokal katalog mot de opplasta filene i digipost-arkivet.
+Synkroniserer begge veier, dvs. laster ned .pdf-er du ikke har lokalt, og laster opp .pdfer du kun har lokalt.
+
+Forbedringer som bør gjøres
+- bedre feilhåndtering
